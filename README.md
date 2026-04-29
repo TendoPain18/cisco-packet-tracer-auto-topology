@@ -8,7 +8,7 @@ A Python script that automates Cisco Packet Tracer network topology creation usi
 
 <br>
 <div align="center">
-  <a href="https://codeload.github.com/TendoPain18/cisco-packet-tracer-automation/legacy.zip/main">
+  <a href="https://codeload.github.com/TendoPain18/cisco-packet-tracer-auto-topology/legacy.zip/main">
     <img src="https://img.shields.io/badge/Download-Files-brightgreen?style=for-the-badge&logo=download&logoColor=white" alt="Download Files" style="height: 50px;"/>
   </a>
 </div>
@@ -56,8 +56,8 @@ Cisco Packet Tracer (installed and open)
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/TendoPain18/cisco-packet-tracer-automation.git
-cd cisco-packet-tracer-automation
+git clone https://github.com/TendoPain18/cisco-packet-tracer-auto-topology.git
+cd cisco-packet-tracer-auto-topology
 ```
 
 2. **Install dependencies**
@@ -108,7 +108,7 @@ if is_window_open("Cisco Packet Tracer"):
 
 <br>
 <div align="center">
-  <a href="https://codeload.github.com/TendoPain18/cisco-packet-tracer-automation/legacy.zip/main">
+  <a href="https://codeload.github.com/TendoPain18/cisco-packet-tracer-auto-topology/legacy.zip/main">
     <img src="https://img.shields.io/badge/Download-Files-brightgreen?style=for-the-badge&logo=download&logoColor=white" alt="Download Files" style="height: 50px;"/>
   </a>
 </div>
