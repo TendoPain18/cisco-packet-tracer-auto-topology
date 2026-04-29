@@ -3,7 +3,7 @@
 A Python script that automates Cisco Packet Tracer network topology creation using GUI automation. Place devices such as routers, switches, and PCs on a grid and connect them programmatically — no manual clicking required.
 
 <div align="center">
-  <img src="images/thumbnail.png" alt="Cisco Packet Tracer Automation" width="800"/>
+  <img src="images/thumbnail.jpg" alt="Cisco Packet Tracer Automation" width="800"/>
 </div>
 
 <br>
