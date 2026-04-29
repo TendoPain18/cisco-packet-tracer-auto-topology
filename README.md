@@ -102,10 +102,6 @@ if is_window_open("Cisco Packet Tracer"):
 - **Libraries**: `pygetwindow`, `pyautogui`
 - **Tool**: Cisco Packet Tracer
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - Cisco Packet Tracer for the network simulation environment
